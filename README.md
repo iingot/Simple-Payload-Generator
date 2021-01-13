@@ -5,3 +5,5 @@ This is a simple bash script to generate payloads using Metasploit. I recommend 
 ## Usage:
 
 chmod +x payloadgen.sh
+su
+./payloadgen.sh
